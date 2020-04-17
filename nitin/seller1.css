@@ -1,0 +1,36 @@
+table{
+margin:0 auto;
+border-radius: 10px;
+background-color:white;
+}
+
+body{
+background-image:url(car-dealer.jpg);
+}
+
+
+label{
+color:red;
+float:left;
+width:500px;
+}
+
+input{
+margin:5px;
+border-radius: 5px;
+padding:3px;
+float:left;
+width:500px;
+height:30px;
+}
+
+td{
+
+font-family:arial;font-size:20px;
+}
+
+th{
+text-align:center;
+font-family:georgia;font-size:30px;
+}
+

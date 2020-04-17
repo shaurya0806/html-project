@@ -1,0 +1,17 @@
+body{
+background-image:url(comback.jpg);
+}
+
+table,th,td{
+margin: 0 auto;
+text-align:center;
+border:1px solid black;
+border-color:red;
+padding:4px;
+width:1520px;
+}
+
+td{
+font-family: "Times New Roman", Times, serif;
+color:blue;
+}
